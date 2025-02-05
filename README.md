@@ -131,9 +131,9 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## 📧 Contact  
 For inquiries, collaborations, or feedback, please reach out to:  
-- **Project Lead**: [Your Name]  
-- **Email**: your.email@example.com  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- **Project Lead**: a13x  
+- **Email**: a13x.h.cc@example.com  
+- **Twitter**: [@A13xH16977](https://x.com/A13xH16977)
 
 ---
 
