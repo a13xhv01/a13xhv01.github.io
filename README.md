@@ -1,5 +1,5 @@
 # a13x-h v0.1 🚀
-
+![me](static/images/a13xhv01.jpeg)
 **An R&D Project in Search of Sentient AI**  
 *Combining Deep Reinforcement Learning, Knowledge Graphs, LLMs, and Human Interaction Learning*  
 
@@ -132,7 +132,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ## 📧 Contact  
 For inquiries, collaborations, or feedback, please reach out to:  
 - **Project Lead**: a13x  
-- **Email**: a13x.h.cc@example.com  
+- **Email**: a13x.h.cc@gmail.com  
 - **Twitter**: [@A13xH16977](https://x.com/A13xH16977)
 
 ---
